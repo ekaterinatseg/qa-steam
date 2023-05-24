@@ -1,0 +1,5 @@
+{
+ "browserName": "chrome",
+ "browserArguments": "incognito",
+ "implicitWaitTimeout": 10
+}
